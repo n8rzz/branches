@@ -1,0 +1,24 @@
+{
+  "name": "@n8rzz/branches",
+  "version": "1.0.0",
+  "description": "Runs git branch and returns a trimmed array of local git branch names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n8rzz/branches.git"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "cli"
+  ],
+  "author": "Nate Geslin, teamtomkins23@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n8rzz/branches/issues"
+  },
+  "homepage": "https://github.com/n8rzz/branches#readme"
+}
